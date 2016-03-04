@@ -15,7 +15,7 @@
 		DC0EF3251C87DFD700955A27 /* test_swiftTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC0EF3241C87DFD700955A27 /* test_swiftTests.swift */; };
 		DC0EF3301C87DFD700955A27 /* test_swiftUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC0EF32F1C87DFD700955A27 /* test_swiftUITests.swift */; };
 		DC0EF38D1C88084500955A27 /* FLView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC0EF38C1C88084500955A27 /* FLView.swift */; };
-		DC13518D1C89499500E8C471 /* FLViewLine.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC13518C1C89499500E8C471 /* FLViewLine.swift */; };
+		DC13518F1C894CB900E8C471 /* FLViewLine.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC13518E1C894CB900E8C471 /* FLViewLine.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,7 +50,7 @@
 		DC0EF32F1C87DFD700955A27 /* test_swiftUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = test_swiftUITests.swift; sourceTree = "<group>"; };
 		DC0EF3311C87DFD700955A27 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DC0EF38C1C88084500955A27 /* FLView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = FLView.swift; path = ../FLView.swift; sourceTree = "<group>"; };
-		DC13518C1C89499500E8C471 /* FLViewLine.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FLViewLine.swift; sourceTree = "<group>"; };
+		DC13518E1C894CB900E8C471 /* FLViewLine.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FLViewLine.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,7 +102,7 @@
 			isa = PBXGroup;
 			children = (
 				DC0EF38C1C88084500955A27 /* FLView.swift */,
-				DC13518C1C89499500E8C471 /* FLViewLine.swift */,
+				DC13518E1C894CB900E8C471 /* FLViewLine.swift */,
 				DC0EF30F1C87DFD600955A27 /* AppDelegate.swift */,
 				DC0EF3111C87DFD600955A27 /* ViewController.swift */,
 				DC0EF3131C87DFD600955A27 /* Main.storyboard */,
@@ -265,9 +265,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DC13518F1C894CB900E8C471 /* FLViewLine.swift in Sources */,
 				DC0EF38D1C88084500955A27 /* FLView.swift in Sources */,
 				DC0EF3121C87DFD600955A27 /* ViewController.swift in Sources */,
-				DC13518D1C89499500E8C471 /* FLViewLine.swift in Sources */,
 				DC0EF3101C87DFD600955A27 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
